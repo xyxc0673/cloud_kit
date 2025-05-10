@@ -23,9 +23,9 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "dev.tutorialwork.cloud_kit"
-    compileSdkVersion 30
+    compileSdkVersion 33
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 33
     }
 }
